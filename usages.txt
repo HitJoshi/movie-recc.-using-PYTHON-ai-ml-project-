@@ -1,0 +1,2 @@
+1) Sentiment Analysis: Multinomial Naive Bayes
+2) TF-IDF
